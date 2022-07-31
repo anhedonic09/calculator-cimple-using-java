@@ -1,2 +1,2 @@
-# calculator-cimple-using-java
+# calculator-simple-using-java
 simple working calculator using java for mini projects
